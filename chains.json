@@ -1,0 +1,63 @@
+{
+  "0x4cead1c38d9a9e1247475914c2d27e3c842f9c7f0ac15997b131d404e6f2947a": {
+    "contracts": {
+      "0xaa6d4410fa05ef3ca959bca2806c51e2997b03256b555911810fb5ac90bf6808": {
+        "name": "DecentralizedEvents",
+        "address": "0xa9ff078aaf9c81d9c0a450f2273944799592d75b"
+      },
+      "0xbf22dd6672bd6ee2c691ff6ff9dac08dff21a2e5dd94e0d8c71522ab412b4a3b": {
+        "name": "DecentralizedEvents",
+        "address": "0x4b5cfae2653f10b76c0019677fd94c514835f05d"
+      },
+      "0x29866ebea65b56731cac0198ac4ffb10157c86a38a8b74d6a649aa29c9a1391b": {
+        "name": "DecentralizedEvents",
+        "address": "0x5b6856c6a58040ea57185e5a6dd893177fd6b1a2"
+      },
+      "0x1ba15d68e6cf521fa3e75c2c23d26fd586d7992abdf009e0268e34608a904d31": {
+        "name": "DecentralizedEvents",
+        "address": "0xc7182015db1d3ef1a9faf40e71660ae8096b8fb8"
+      },
+      "0x3d84bad28a042791ee9557ad6ec1efcc96206bad6989ab7eb67d6fee5838cf88": {
+        "name": "DecentralizedEvents",
+        "address": "0xfe0f4cb5797ab90c99b201b16eda8e4cc6c1d88b"
+      },
+      "0xcef30ee4e3df467b000589f2f5df8d9360598e6e4533172079eb2d99caf5026d": {
+        "name": "DecentralizedEvents",
+        "address": "0xac3dc61cc10227c94330abc2472852b03c5f5311"
+      },
+      "0x17e31d276a0711b9ef5978babe10fad08d762cf72ff46c6b4d20615b829c7416": {
+        "name": "DecentralizedEvents",
+        "address": "0xb30f1a7f6ebe4cebb29869986516a2fdf808921e"
+      },
+      "0x5e0a28aa745d2162e990b822c188b35992c560ccf7952de0365b1fa3f9fcdc49": {
+        "name": "DecentralizedEvents",
+        "address": "0xe631dc84fda9f2a4dcb9a05feace161493743a8f"
+      },
+      "0x1759aa218e18ef05bc06943ce7488053d2d4c59484f8ef94eba74e7a8d781574": {
+        "name": "DecentralizedEvents",
+        "address": "0xef3296b1a6df117ba22c825a138029637d4323d2"
+      },
+      "0xcffc9970169349df2a0904ee2fa325128a861f262050c83f7c77fbafb4410aba": {
+        "name": "DecentralizedEvents",
+        "address": "0x72c7a83891faa0759a9d46707de8664e4ec5a263"
+      },
+      "0x8a97aff3e537a8780213794adc98fab55d7b5032e11e7c2f8fec7fbc0a15296e": {
+        "name": "DecentralizedEvents",
+        "address": "0x87d35a159eefb3ed53ece31a1eea35f48db46f49"
+      },
+      "0xe6b4d13f1d76bb27a7028296e7aefbc801db85a0fb5185c60b7aca88b5ef7695": {
+        "name": "DecentralizedEvents",
+        "address": "0x78a55e180b0da9de2ab6204df44900e4f33a1867"
+      },
+      "0xd9070c20f3119c2669edbd94f2f3708a95047717b09c3367297cfc53f685fa37": {
+        "name": "DecentralizedEvents",
+        "address": "0xb25bd461b6af45fff0b95555ba02c8d044efccec"
+      },
+      "0x00543cd17c9baca44bdec9256145da353d63d9fa6eefa6a1698c249986117d07": {
+        "name": "DecentralizedEvents",
+        "address": "0x4e6868b17f8756959c8c0b6982e44a9263c1d944"
+      }
+    },
+    "name": "development"
+  }
+}
