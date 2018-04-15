@@ -2,7 +2,7 @@
 
 This is a repository with a Smart Contract Prototype. With it you can sell tickets for your event and receive ETH as payment. Its funcionalities are:
 
-  - setNewPrice (uint \_quantity) : Owner can set new price.
+  - setNewPrice (uint \_quantity) : Owner can set new price per ticket. In WEI, please.
   - buyTicket (uint \_quantity) : Everybody can buy one or more tickets.
   - getMyTickets () : It returns your ticket with its status and tickets quantity.
   - readTicket (address \_spectatorAccount): Owner can read the status of all tickets. It returns status and tickets quantity.
